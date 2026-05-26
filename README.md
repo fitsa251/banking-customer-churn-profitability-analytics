@@ -19,6 +19,11 @@ This project is designed for roles such as:
 * Customer Insights Analyst
 * Risk Operations Analyst
 
+
+## 🌐 Live Interactive Dashboard
+
+🔗 [View the Streamlit Dashboard](https://banking-customer-churn-profitability-analytics-a7hnw6cdqcguzny.streamlit.app/)
+
 ---
 
 ## Business Problem
